@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Georgia, sans-serif;
+  background-color: #E4F9F5;
+}
+
+.hair {
+  text-decoration: underline;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+hr {
+  width: 75%;
+}
+
+.clid {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.clood {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.steamroller {
+  border-radius: 25%;
+}
+
+.programmer {
+  border-radius: 25%;
+}
